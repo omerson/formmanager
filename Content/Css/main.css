@@ -1,0 +1,24 @@
+body {
+    padding-top: 50px;
+}
+.starter-template {
+    padding: 40px 15px;
+    text-align: center;
+}
+
+.field-del{
+    float: left;
+    display: none;
+    cursor: pointer;
+}
+
+.field-add{
+    float: right;
+    display: none;
+    cursor: pointer;
+}
+
+.add-multi, .del-multi{
+    margin-right: -10px;
+    margin-top: 2px;
+}
